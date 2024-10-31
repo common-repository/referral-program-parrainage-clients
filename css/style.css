@@ -1,0 +1,35 @@
+
+#imgIconPreviewContainer{
+    background: rgba(224,45,116,0.80) url('http://s.app.welovecustomers.fr/img/textures/basketball.png');
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+
+#imgIconPreviewContainer img{
+    width:48px;
+    margin:16px auto;	 
+}  
+
+#wlc_infos{
+    clear:both;
+    margin-top: 40px;
+    width: 100%;
+    height: 100%;
+}
+
+#scoreNPSValue{
+    font-size:250%;
+    font-weight: bold;
+}
+
+#pluginVersionText{
+    font-size: 80%;
+    font-style: italic;
+}
+
+#referralInfos div{
+        height: 30%;
+}
+
+

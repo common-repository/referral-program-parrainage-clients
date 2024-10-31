@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.0.2\n"
+
+msgid "WLC Referral plugin allows you to add a referral program to your site using Wordpress & Woo Commerce. You MUST have a We Love Customers account to use this plugin."
+msgstr "Le plugin WLC Referral vous permet de créer un programme de parrainage pour votre site Woo Commerce. Vous devez créer un compte sur la plateforme We Love Customers pour pouvoir utiliser ce plugin."
+
+msgid "Plugin Settings"
+msgstr "Configuration de l'extension"
+
+msgid "You are using plugin version %s."
+msgstr "Vous utilisez la version %s du plugin."
+
+msgid "Plugin version:"
+msgstr "Version du plugin"
+
+msgid "This plugin requires WordPress %s or higher."
+msgstr "Cette extension nécessite au minimum la version %s de Wordpress."
+
+msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version."
+msgstr "Merci de mettre <a href=\"%1$s\">WordPress</a> à jour."
+
+msgid "Referral"
+msgstr "Parrainage"
+
+msgid "Referral program:"
+msgstr "Programme de parrainage"
+
+msgid "Reward offer = %d%s"
+msgstr "Offre parrain = %d%s"
+
+msgid "Welcome offer = %d%s"
+msgstr "Offre filleul = %d%s"
+
+msgid "NPS score:"
+msgstr "Score NPS"
+
+msgid "API Key"
+msgstr "Clé API"
+
+msgid "API Glue"
+msgstr "API Glue"
+
+msgid "Use CDN for the first Javascript call?"
+msgstr "Utiliser le CDN pour le chargement du fichier Javascript ?"
+
+msgid "True"
+msgstr "Oui"
+
+msgid "False"
+msgstr "Non"
+
+msgid "Start"
+msgstr "Démarrer"
+
+msgid "Manage it!"
+msgstr "Mettre à jour"
+
+msgid "To get an API Key, please register using this link:"
+msgstr "Pour obtenir votre clé API, cliquez ici:"
+
+msgid "Get it!"
+msgstr "Obtenir ma clé!"
+
+
+msgid "To update and manage your referral programm, click here:"
+msgstr "Pour mettre à jour votre programme de parrainage, cliquez ici:"
+
+msgid "Position"
+msgstr "Emplacement"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Substitution"
+msgstr "Substitution"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Icon_Cash"
+msgstr "Argent"
+
+msgid "Icon_Gift"
+msgstr "Cadeau"
+
+msgid "Icon_Heart"
+msgstr "Coeur"
+
+msgid "Icon_Reward"
+msgstr "Récompense"
+
+msgid "Icon_Discount"
+msgstr "Discount"
+
+msgid "Icon_Rocket"
+msgstr "Fusée"
+
+msgid "Icon_Share"
+msgstr "Partage"
+
+msgid "Icon_Dollar"
+msgstr "Dollar"
+
+msgid "Icon_Like"
+msgstr "Aime"
+
+msgid "Icon_Euro"
+msgstr "Euro"
+
+msgid "Icon_Euro2"
+msgstr "Euro2"
+
+msgid "Icon_Icecream"
+msgstr "Glace"
+
+msgid "Icon_Plant"
+msgstr "Plante"
+
+msgid "Icon_Whitegift"
+msgstr "Cadeau blanc"
+
+
+msgid "Bottom right"
+msgstr "En bas à droite"
+
+msgid "Bottom left"
+msgstr "En bas à gauche"
+
+msgid "Top right"
+msgstr "En haut à droite"
+
+msgid "Text color"
+msgstr "Couleur du texte"
+
+msgid "Background color"
+msgstr "Couleur du fond"
+
+msgid "Header background color"
+msgstr "Couleur du fond du titre"
+
+msgid "Header color"
+msgstr "Couleur du titre"
+
+msgid "Font size"
+msgstr "Taille du texte"
+
+msgid "Status"
+msgstr "Etat"
+
+msgid "DisplayOnMobile"
+msgstr "Affichage sur mobile"
+
+msgid "showPageInWooCommerceAccountMenu"
+msgstr "Page à afficher dans le menu <i>Mon compte</i> de Woo Commerce"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Extended"
+msgstr "Déplié"
+
+msgid "Collapsed"
+msgstr "Compact"
+
+msgid "Referral widget shortcode&nbsp;:"
+msgstr "Shortcode du widget de parrainage&nbsp;:"
+
+msgid "Purchase referral widget shortcode&nbsp"
+msgstr "Shortcode du widget de suivi de vos parrainages&nbsp;:"
+
+msgid "Customize widget image&nbsp;:"
+msgstr "Personnaliser l'image du widget&nbsp;:"
+
+msgid "Customize widget title&nbsp;:"
+msgstr "Personnaliser le titre du widget&nbsp;:"
+
+msgid "Customize widget text color&nbsp;:"
+msgstr "Personnaliser la couleur du texte du widget&nbsp;:"
+
+msgid "Customize widget background color&nbsp;:"
+msgstr "Personnaliser la couleur de fond du widget&nbsp;:"
+
+msgid "Customize widget header background color&nbsp;:"
+msgstr "Personnaliser la couleur de fond de l'entête du widget&nbsp;:"
+
+msgid "Customize several parameters at the same time&nbsp;:"
+msgstr "Personnaliser plusieur paramètres en même temps&nbsp;:"
+
+msgid "My title"
+msgstr "Mon titre"
+
+msgid "Invite your friends"
+msgstr "Parrainez vos amis"
+
+msgid "To customize your color choice<br>You have to enter the hexadecimal code of your color without the "#" like on these 3 examples:"
+msgstr "Pour personnaliser votre choix de couleur<br>Vous devez entrer le code hexadécimal de votre couleur sans le "#" comme dans ces 3 exemples:"
+
+msgid "Reports"
+msgstr "Statistiques"
+
+msgid "Find more information on our website WeLoveCustomers"
+msgstr "Retrouvez plus de détails sur notre plateforme WeLoveCustomers"
+
+msgid "Go to Advanced Reporting"
+msgstr "Accèder au tableau de bord avancé"
+
+msgid "Reward offer"
+msgstr "Offre de récompense"
+
+msgid "Welcome offer"
+msgstr "Offre de bienvenue"
+
+msgid "Your module is not configured yet"
+msgstr "Votre module n'est pas encore configuré"
+
+msgid "Invitation"
+msgstr "Nombre d'Invitations"
+
+msgid "Referrer"
+msgstr "Parrains"
+
+msgid "Referee"
+msgstr "Filleuls"
+
+msgid "SyncTrigger"
+msgstr "Déclencheur de synchronisation des commandes"
+
+msgid "trigger_Paid"
+msgstr "Commande payée"
+
+msgid "trigger_Completed"
+msgstr "Commande complétée"
+
+msgid "trigger_Processing"
+msgstr "Commande en cours de traitement"
+
+msgid "SyncAmount"
+msgstr "Montant à synchroniser"
+
+msgid "amountWithTax"
+msgstr "Montant avec taxes"
+
+msgid "amountWithoutTax"
+msgstr "Montant hors taxes"
+
+msgid "amountWithoutShipping"
+msgstr "Montant hors frais de port"
+
+msgid "amountWithoutTaxAndShipping"
+msgstr "Montant hors taxes hors frais de port"
+
+msgid "CumulativeDiscounts"
+msgstr "Remises cumulables"
+
+msgid "Rich snippet widget"
+msgstr "Widget d'intégration de rich snippet"
+
+msgid "Badge widget"
+msgstr "Widget badge avis"
+
+msgid "Reviews widget"
+msgstr "Widget de présentation des avis"

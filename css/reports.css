@@ -1,0 +1,59 @@
+.wlc-reports ul {
+    display:flex;
+}
+
+.wlc-reports-link {
+    background: #0073aa;
+    color: white;
+    float: right;
+    position: absolute;
+    bottom: 17px;
+    right: 16px;
+    padding: 10px 16px;
+}
+
+ .reports-success {
+     color: #79a22e !important;
+ }
+
+.reports-info {
+    color: #007bdb !important;
+}
+
+.reports-danger {
+    color: #e22626 !important;
+}
+
+.reports-warning {
+    color: #eb5202 !important;
+}
+
+.offer-amount {
+    font-size: 16px;
+    color: #777777 !important;
+    font-weight: normal;
+}
+
+.wlc-reports .wlc-reports-item {
+    margin-right: 16px;
+    border-right: 5px solid #aaa;
+    color: #aaa;
+    padding: 1em;
+    -webkit-transition: all ease .5s;
+    transition: all ease .5s;
+    box-shadow: inset 0 -1px 0 0 #dfdfdf;
+    flex: 1;
+    background: white;
+}
+
+.wlc-reports .wlc-reports-item:last-of-type {
+    margin-right: 0;
+}
+
+.wlc-reports .wlc-reports-item .content {
+    font-size: 1.618em;
+    line-height: 1.2em;
+    color: #464646;
+    font-weight: 400;
+    font-family: HelveticaNeue-Light,'Helvetica Neue Light','Helvetica Neue',sans-serif;
+}
